@@ -13,11 +13,15 @@ o Estructura del proyecto:
 ▪ Fase 1: Extracción de datos de las empresas del S&P 500.
   • Obtención de datos de empresas del S&P 500 desde Wikipedia.
   • Descarga de los precios de cotización del último año.
+  
 ▪ Fase 3: Almacenamiento de datos en SQL Server.
   • Carga de los datos limpios en una base de datos SQL Server.
+  
 ▪ Fase 4: Creación del dashboard en Power BI.
   • Creación de un dashboard interactivo con KPIs, tooltips y bookmarks.
+  
 ▪ Fase 5: Clusterización de las acciones según la volatilidad.
   • Agrupamiento de las acciones en clusters según indicadores de volatilidad.
+  
 ▪ Fase 6: Publicación en GitHub.
   • Subida del proyecto al repositorio de GitHub y documentación en este archivo README.md.
